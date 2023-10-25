@@ -7,7 +7,7 @@
 3. Type "npm i" in terminal to install dependencies
 4. Type "npm start" in terminal to run the application
 
-this should initialize the project in http://localhost:3000
+this should initialize the project on http://localhost:3000
 
 ## Dependencies
 
